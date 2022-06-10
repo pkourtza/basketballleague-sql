@@ -25,12 +25,15 @@ Queries:
 - Find which teams have won at least 2 times in the last 13 seasons
 - Find in which team currently plays the FinalsMVP from 2018
 - See how many games where played each month during the first half of the year
+
 Views:
 - View of Players and all their Game stats - vw_playerstats. Use the vw_playerstats view to find the maximum rebounds scored by centres
 - View of Players and all their Average Game Stats - vw_avgplayerstats. Use the vw_avgplayerstats view to find which players had double points per game and double rebounds per game. Use the vw_avgplayerstats view to find how many players had double points per game, double rebounds per game, double assists or blocks or steals per game 
+
 Functions:
 - Function calc_winpct that calculates the win % of a team (win% = wins / (wins+losses) * 100). Use the function calc_winpct to find which teams have a winning percentage of more than 50% this season
 - Function per36min that finds a specific statistic per 36 minutes played for a player. Use the function per36min to find the points and assists per 36 minutes of all players played on 2021-03-21
+
 Procedures:
 - Procedure TeamPlayers that returns the players of a team. Use TeamPlayers to find the players of Utah Jazz and Milwaukee Bucks for that season
 - Procedure TeamStandings that returns the top X teams (team standings) of either overall or east or west conference. Use TeamStandings to find the top 8 teams overall  and the top 3 teams in the West.
