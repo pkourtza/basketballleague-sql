@@ -1,0 +1,31 @@
+TeamID,TeamName,City,Conference,Wins,Losses
+UTA,Utah Jazz,Utah,West,52,20
+LAC,Los Angeles Clippers,Los Angeles,West,47,25
+PHO,Phoenix Suns,Phoenix,West,51,21
+MIL,Milwaukee Bucks,Milwaukee,East,46,26
+PHI,Philadelphia 76ers,Philadelphia,East,49,23
+DEN,Denver Nuggets,Denver,West,47,25
+BRK,Brooklyn Nets,Brooklyn,East,48,24
+LAL,Los Angeles Lakers,Los Angeles,West,42,30
+DAL,Dallas Mavericks,Dallas,West,42,30
+NYK,New York Knicks,New York,East,41,31
+ATL,Atlanta Hawks,Atlanta,East,41,31
+POR,Portland Trail Blazers,Portland,West,42,30
+BOS,Boston Celtics,Boston,East,36,36
+GSW,Golden State Warriors,San Fransisco,West,39,33
+MEM,Memphis Grizzlies,Memphis,West,38,34
+MIA,Miami Heat,Miami,East,40,32
+IND,Indiana Pacers,Indiana,East,34,38
+NOP,New Orleans Pelicans,New Orleans,West,31,41
+TOR,Toronto Raptors,Toronto,East,27,45
+CHI,Chicago Bulls,Chicago,East,31,41
+SAS,San Antonio Spurs,San Antonio,West,33,39
+WAS,Washington Wizards,Washington,East,34,38
+CHO,Charlotte Hornets,Charlotte,East,33,39
+SAC,Sacramento Kings,Sacramento,West,31,41
+DET,Detroit Pistons,Detroit,East,20,52
+MIN,Minnesota Timberwolves,Minnesota,West,23,49
+HOU,Houston Rockets,Houston,West,17,55
+CLE,Cleveland Cavaliers,Cleveland,East,22,50
+ORL,Orlando Magic,Orlando,East,21,51
+OKC,Oklahoma City Thunder,Oklahoma City,West,22,50
